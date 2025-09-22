@@ -1,0 +1,26 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large/local assets
+videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# YOLO runs
+runs/
+
+# Outputs
+*.log
+*.tmp
+*.cache
